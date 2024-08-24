@@ -1,3 +1,18 @@
 body{
     background-color: #000033;
 }
+
+h1, li, a{
+    color: lightblue;
+}
+
+h1{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+a{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
